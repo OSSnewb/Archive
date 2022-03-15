@@ -12,8 +12,8 @@ print("Happy")
 
 ```
 1. Go to subway staiton
--take a walk 
--take a 10 minutes
+- take a walk 
+- take a 10 minutes
 2. Pay the money for take a subway
 3. After take off the subway wait the school bus
   
