@@ -8,7 +8,7 @@ _I woke up at 7:00 am_
 >why? I live far from campus I take a 90 minutes to get to a campus
 
 1.Go to subway staiton
--take a walk-
+ul.take a walk
 *take a 10 minutes*
 2.dawdwadwadwadwadaw
 
