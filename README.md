@@ -16,4 +16,5 @@ print("Happy")
 - take a 10 minutes
 2. Pay the money for take a subway
 3. After take off the subway wait the school bus
+- There are a lot of people waiting, so have to go in advance.
   
