@@ -9,5 +9,5 @@ _I woke up at 7:00 am_
 
 1.Go to subway staiton<ul>take a walk<ul>take a 10 minutes
 2.Pay the money for take a subway
-  3.After take off the subway wait the school bus
+ <ul>3.After take off the subway wait the school bus
   
