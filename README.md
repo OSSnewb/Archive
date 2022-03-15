@@ -1,6 +1,13 @@
-# Header1
+# My First Markdown
 This is an R Markdown document. Mardown is a simple 
 
-## Header2
->dwadadwadwa
->
+## Welcome
+
+*i woke up at 7:00 am*
+_i woke up at 7:00 am_
+>why? I live far from campus
+>I take a 90 minutes to get to a campus
+
+
+
+
