@@ -11,9 +11,9 @@ _I woke up at 7:00 am_
 print("Happy")
 
 ```
-<u>1.Go to subway staiton
+1. Go to subway staiton
 -take a walk 
 -take a 10 minutes
-<ul>2.Pay the money for take a subway
-<ol>3.After take off the subway wait the school bus
+2. Pay the money for take a subway
+3. After take off the subway wait the school bus
   
